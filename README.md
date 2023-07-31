@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @codingflavz
-- 👀 I’m interested in learning how to code in a variety of programming languages and ultimately become a full stack developer.
-- 🌱 I’m currently learning Java Script.
-- 💞️ I’m looking to collaborate on Website projects.
+- 👀 See my work here - https://drive.google.com/file/d/1_rWKzeTyCqB9Vo1KvoZ47-q653PWiBFB/view
 - 📫 You can get in touch with me here or connect on LinkedIn - https://www.linkedin.com/in/flaviusnitu/
 
 <!---
